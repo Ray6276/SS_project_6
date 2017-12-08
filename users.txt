@@ -1,0 +1,1 @@
+[{"name":"example","password":"user","twofactor":"disabled"},{"name":"man","password":"no","twofactor":"disabled"},{"name":"ro","password":"bu","twofactor":"disabled"},{"name":"test","password":"test","twofactor":"disabled"},{"name":"test1","password":"test1","twofactor":"$2a$10$dR.MWWOBWowtrpqvuAjjLuv6Hj1Q0VSZ/r7JuuGHsRMuNYg.VsPRC"}]
